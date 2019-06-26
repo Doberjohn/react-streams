@@ -11,22 +11,10 @@
       "id": 2
     },
     {
-      "title": "Stream user",
-      "description": "Stream with user id",
-      "userId": "116135551864833617106",
-      "id": 3
-    },
-    {
-      "title": "Test",
-      "description": "Test with Serafeim",
+      "title": "Diablo 4",
+      "description": "New content!!",
       "userId": "116135551864833617106",
       "id": 4
-    },
-    {
-      "title": "John stream title fix",
-      "description": "John stream description fix",
-      "userId": "116135551864833617106",
-      "id": 5
     }
   ]
 }
